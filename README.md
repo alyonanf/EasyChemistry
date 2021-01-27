@@ -1,6 +1,6 @@
 # EasyChemistry project
 
-## High-Level Overview
+## Dwscription
 
 The project should help with mastering a foundational skill for organic chemistry -- naming the structures
 
