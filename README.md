@@ -1,9 +1,5 @@
 # EasyChemistry project
 
-## Team
-
-Elena Nefedova, P3120
-
 ## High-Level Overview
 
 The project should help with mastering a foundational skill for organic chemistry -- naming the structures
